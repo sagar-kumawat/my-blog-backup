@@ -2,5 +2,5 @@
 
 Here's where the backup of my blog will live. Check out the blog here:
 
-https://thedevopstale.com
+https://thedevopstales.com
 
